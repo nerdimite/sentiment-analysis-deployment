@@ -9,4 +9,4 @@ To run the built react app open a terminal in this directory and run the followi
 $ npm install -g serve
 $ serve -s build
 ```
-![app frontend](./app-frontend.png)
+![app frontend](./app.png)
