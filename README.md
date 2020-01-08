@@ -1,6 +1,6 @@
 # End-to-End Sentiment Analysis
 
-This repository contains the Sentiment Analysis Deployment Project for Udacity Machine Learning Engineer Nanodegree. The [Sagemaker_Project](./Sagemaker_project) directory contains the jupyter notebook and python files of the model, training and prediction scripts.
+This repository contains the Sentiment Analysis Deployment Project for Udacity Machine Learning Engineer Nanodegree. The [Sagemaker_Project](./Sagemaker_Project) directory contains the jupyter notebook and python files of the model, training and prediction scripts.
 
 ### Project Details
 
